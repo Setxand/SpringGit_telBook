@@ -1,0 +1,9 @@
+insert into telephoneBook(name,last_Name,telephone_Number,date_Birthday,sex)values('Artem','Boyko','+380971112709','1997-04-13','male');
+insert into telephoneBook(name,last_Name,telephone_Number,date_Birthday,sex)values('bohdan','Boyko','+380971112709','1997-04-13','male');
+insert into telephoneBook(name,last_Name,telephone_Number,date_Birthday,sex)values('Arsen','Boyko','+380971112709','1997-04-13','male');
+insert into telephoneBook(name,last_Name,telephone_Number,date_Birthday,sex)values('Dima','Boyko','+380971112709','1997-04-13','male');
+insert into telephoneBook(name,last_Name,telephone_Number,date_Birthday,sex)values('Tigran','Boyko','+380971112709','1997-04-13','male');
+insert into telephoneBook(name,last_Name,telephone_Number,date_Birthday,sex)values('Huylan','Boyko','+380971112709','1997-04-13','male');
+insert into telephoneBook(name,last_Name,telephone_Number,date_Birthday,sex)values('Angelina','Rossul','+380971112709','2000-04-13','female');
+insert into telephoneBook(name,last_Name,telephone_Number,date_Birthday,sex)values('Taya','Berbenyuk','+380971112709','1997-09-04','female');
+insert into telephoneBook(name,last_Name,telephone_Number,date_Birthday,sex)values('Valera','Ignativ','+380971112709','2005-04-13','male');
